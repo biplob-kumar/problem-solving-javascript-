@@ -10,7 +10,7 @@ function printNumber() {
       }
     return n
 }
-printNumber()  /// ans 
+printNumber()  /// ans any
 
 
 
