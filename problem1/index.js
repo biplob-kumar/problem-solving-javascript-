@@ -10,10 +10,8 @@ function printNumber() {
       }
     return n
 }
-printNumber()
+printNumber()  /// ans 
 
-
-// 2 dye mentional array 
 
 
 
