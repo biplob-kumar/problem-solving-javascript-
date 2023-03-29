@@ -32,7 +32,7 @@ return string.slice(2)
 
 
 
-console.log(newWord("arrray"));  //not
+console.log(newWord("arrray"));  
 console.log(newWord("ray"));
 console.log(newWord("object"));
 console.log(newWord("ject"));
